@@ -1,1 +1,0 @@
-# Girlup urja
