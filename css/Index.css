@@ -3,6 +3,11 @@
   background-size: 120%;
 }
 
+#grad1  {
+ background image: linear-gradient(to bottom right,  rgb(255, 209, 216), rgb(144, 144, 223), rgb(255, 209, 216));
+}
+
+
 .u-section-1 .u-sheet-1 {
   min-height: 627px;
 }
